@@ -1,0 +1,49 @@
+.areuparent {
+
+}
+.flex {
+	display: flex;
+}
+h1 {
+	font-family: arial;
+	margin-left: 200px;
+	padding-top: 20px;
+	color: #28251a;
+	font-size: 35px;
+}
+.block1 {
+	background: white;
+	height: 163px;
+	width: 540px;
+	display: flex;
+	margin-left: 180px;
+	margin-top: 30px;
+}
+body {
+	background-color: #e8d7e6;
+}
+h2 {
+	font-family: arial;
+	font-weight: normal;
+	font-size: 17px;
+	margin-left: 14px;
+	padding-top: 20px;
+}
+.p {
+	color: #d8d6d8;
+	font-size: 15px;
+	margin-left: 15px;
+}
+.block2 {
+	margin-top: 30px;
+	background: white;
+	height: 163px;
+	width: 580px;
+	display: flex;
+	margin-left: 30px;
+}
+.p2 {
+	color: #d8d6d8;
+	font-size: 15px;
+	margin-left: 20px
+}
